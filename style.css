@@ -9,7 +9,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-
 body {
     background: #f9f6d6;
     color: #f9f6d6;
@@ -41,12 +40,10 @@ header {
     width: 150px;
     margin-right: calc(11600%/1280);
 }
-
 #map {
     width: 29px;
     height: 29px;
 }
-
 .text1, .text2 {
     color: #f3eebd;
     font-family: Raleway, serif;
@@ -56,7 +53,6 @@ header {
 #map, #phone {
     margin-left: 17px;
 }
-
 #phone {
     width: 28px;
     height: 28px;
@@ -82,20 +78,18 @@ header {
     height: 683px;
     position: relative;
 }
-.main-menu {
+#main-menu {
     display: flex;
     flex-direction: column;
     float: left;
 }
-
-.main-menu a {
+#main-menu a {
     text-decoration: none;
     color: #f3eebd;
     font-family: Raleway, serif;
     font-size: 24px;
     font-weight: 300;
 }
-
 .sitebar {
     float: right;
 }
@@ -143,20 +137,17 @@ form label {
     text-transform: uppercase;
 
 }
-
 form input[type=submit]{
     width: 164px;
     height: 51px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.75);
     background-color: #84bdd1;
 }
-
 form input[type=text] {
     width: 205px;
     height: 34px;
     background-color: #ffffff;
 }
-
 .line {
     width: 537px;
     height: 2px;
@@ -164,7 +155,6 @@ form input[type=text] {
     position: absolute;
     bottom:34px; right:calc(37100%/1280);
 }
-
 .line img {
     margin-left: calc(26200%/537);
     margin-top: -18px;
@@ -177,7 +167,6 @@ form input[type=text] {
     display: flex;
     justify-content: space-between;
 }
-
 .whyWe{
 
 }
@@ -219,7 +208,6 @@ form input[type=text] {
 .name-of-companies{
     margin-top: 260px;
 }
-
 .name-of-companies .name {
     width: 520px;
     height: 85px;
@@ -242,7 +230,6 @@ form input[type=text] {
 .advantages-item-image {
     height: 62px;
 }
-
 .advantages-item-desc {
     color: #242322;
     font-family: Raleway, serif;
@@ -254,10 +241,7 @@ form input[type=text] {
 }
 .page_3{
     height: 1365px;
-
 }
-
-
 .office1 {
     background-image: url("images/office.png");
     height: 449px;
@@ -265,13 +249,15 @@ form input[type=text] {
     width: 100%;
     position: relative;
 }
-
 .office-content {
     width: 550px;
     position: absolute;
     right: 0;
     top: 5%;
     padding: 30px;
+}
+.office-content2 {
+    left: 0;
 }
 .office-content-name {
     margin: auto auto 30px;
@@ -285,18 +271,21 @@ form input[type=text] {
     height: 67px;
     text-align: center;
     line-height: 67px;
+    position: relative;
 }
 .office-lines {
     display: flex;
     justify-content: space-between;
 }
-
 .before-name, .after-name {
     border-bottom: 1px solid #f8f5d6;
     width: 80px;
-
+    position: absolute;
+    top: 15%;
 }
-
+.after-name {
+    right: 5%;
+}
 .office-content-filling {
     font-family: Raleway, serif;
     font-size: 24px;
@@ -324,15 +313,15 @@ form input[type=text] {
     height: 453px;
     background-repeat: no-repeat;
     width: 100%;
+    position: relative;
 }
 .office3 {
     background-image: url("images/office3.png");
     height: 464px;
     background-repeat: no-repeat;
     width: 100%;
+    position: relative;
 }
-
-
 .office img{
     display: block;
     margin: auto;
@@ -341,7 +330,26 @@ form input[type=text] {
 .office-content{
    right: 0;
 }
+.page_4{
+    background: no-repeat url("images/content4.png");
+    height: 900px;
+    position: relative;
+    width: 100%;
+}
 
+.orange_frame {
+    width: 904px;
+    height: 814px;
+    border: 5px solid #ce893c;
+    display: block;
+    margin: 60px auto auto;
+}
+
+#page_4_woman {
+    position: absolute;
+    bottom: 10%;
+    left: 12%;
+}
 
 footer {
     width: 100%;
@@ -353,11 +361,9 @@ footer {
 .footer-follow {
     text-align: center;
 }
-
 .footer-cow-space {
     text-align: left;
 }
-
 .footer-contact {
     text-align: right;
 }
