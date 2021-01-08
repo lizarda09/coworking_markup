@@ -7,3 +7,15 @@ if(main_menu.style.visibility === 'hidden'){
 }
 else main_menu.style.visibility = 'hidden';
 });
+
+function bookButton() {
+    $('.modal_window, .overlay').fadeIn();
+    setTimeout(()=>{
+        $('.modal_window, .overlay').fadeOut();}
+        , 5000)
+}
+
+
+$('#page1_form_button').click(bookButton);
+$('.office1-button').click(bookButton);
+$('.page4_button').click(bookButton);

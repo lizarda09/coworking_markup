@@ -30,6 +30,13 @@
             <a class="fb" href=""><img src="images/fb.png" alt=""></a>
         </div>
     </header>
+    <div class="modal_window">
+        <div class="modal_main_text">
+            <div class="thank">Thank you,</div>
+            <div class="request">your request has been accepted!</div>
+        </div>
+    </div>
+    <div class="overlay"></div>
     <div class="page_1">
         <div id="main-menu">
             <a href="">Advantage</a>
@@ -41,7 +48,6 @@
             <a href="">Gift</a>
             <a href="">Contacts</a>
         </div>
-
         <div class="container">
             <aside class="sitebar">
                 <div class="sitebar-name">
@@ -52,12 +58,12 @@
                     <div class="sidebar-under-logo">
                         European office in the centre
                     </div>
-                    <form action="">
+                    <div class="page1_form">
                         <label>Book your place right now</label>
                         <input type="text" placeholder="Your name">
                         <input type="text" placeholder="Your phone number">
-                        <input type="submit">
-                    </form>
+                        <input id='page1_form_button' type="submit">
+                    </div>
                 </div>
         </aside>
         <div class="line">
@@ -208,6 +214,7 @@
                     </button>
                 </div>
             </div>
+
         </div>
     </div>
     <div class="page_4">
@@ -222,14 +229,13 @@
                     <div class="text_discount">40% discount</div>
                     <input type="text"placeholder="Your name">
                     <input type="text" placeholder="Your phone number">
-                    <button>book</button>
+                    <button class="page4_button">book</button>
                 </div>
             </div>
             <img src="images/woman.png" id="page_4_woman" alt="">
         </div>
 
     </div>
-
     <footer>
         <div class="footer-cow-space">
             <div class="footer-cow-space-name">COWORKING SPACE</div>
