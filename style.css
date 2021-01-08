@@ -56,22 +56,8 @@ header {
 #phone {
     width: 28px;
     height: 28px;
-   /* margin-left: 17px;
-    margin-top: 24px;*/
 }
-.twitter {
-  /*  margin-left: 155px;
-    margin-top: 26px;*/
-}
-.inst {
-  /*  margin-left: 41px;
-    margin-top: 26px;*/
-}
-.fb {
-    margin-right: calc(11600%/1280);
-   /* margin-left: 45px;
-    margin-top: 26px;*/
-}
+
 .page_1 {
     background-image: url("images/bn.jpg");
     width: 100%;
@@ -80,10 +66,14 @@ header {
     background-position: center;
 }
 #main-menu {
+    float: left;
+    width: 248px;
+    height: 534px;
     display: flex;
     flex-direction: column;
-    float: left;
-
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.78);
 }
 #main-menu a {
     text-decoration: none;
@@ -95,9 +85,7 @@ header {
 .sitebar {
     float: right;
 }
-.sitebar-shadow {
-    position: absolute;
-}
+
 .sitebar-name {
     width: 211px;
     height: 19px;
@@ -127,10 +115,8 @@ form {
     background-color: rgba(255, 224, 146, 0.84);
     text-align: center;
     position: relative;
-
 }
 form label {
-
     width: 199px;
     height: 30px;
     color: #2e1810;
@@ -138,7 +124,6 @@ form label {
     font-size: 21px;
     font-weight: 550;
     text-transform: uppercase;
-
 }
 form input[type=submit]{
     width: 164px;
@@ -156,7 +141,7 @@ form input[type=text] {
     height: 2px;
     background-color: #f9f6d6;
     position: absolute;
-    bottom:34px; right:calc(37100%/1280);
+    bottom:34px;
 }
 .line img {
     margin-left: calc(26200%/537);
@@ -174,6 +159,7 @@ form input[type=text] {
 .whyWe{
 
 }
+
 .whyWeText {
     width: 250px;
     height: 58px;
@@ -359,6 +345,11 @@ form input[type=text] {
     width: 100%;
     background: url("images/content4.png") no-repeat center;
 }
+.page4_container {
+    width: 1130px;
+    margin: auto;
+    position: relative;
+}
 
 .orange_frame {
     width: 904px;
@@ -366,12 +357,73 @@ form input[type=text] {
     border: 5px solid #ce893c;
     display: block;
     margin: 60px auto auto;
+    position: relative;
+}
+.page4_form {
+    width: 461px;
+    height: 397px;
+    background-color: rgba(209, 148, 79, 0.84);
+    position: absolute;
+    top: 20%;
+    right: 5%;
 }
 
 #page_4_woman {
     position: absolute;
-    bottom: 10%;
-    left: 12%;
+    bottom: 3px;
+}
+
+.form_text {
+    color: white;
+    width: 310px;
+    margin: 40px auto 0;
+}
+
+.form_text input{
+    height: 44px;
+    width: 320px;
+    margin: 5px;
+}
+
+.form_text button{
+    width: 250px;
+    height: 60px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.76);
+    background-color: #00a9da;
+    color: #fefefb;
+    font-family: "Raleway - Extra Bold";
+    font-size: 36px;
+    font-weight: 550;
+    text-transform: uppercase;
+    margin: 0 auto;
+    display: block;
+}
+
+.text_hurry {
+    color: #fcfcf9;
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.text_get {
+    color: #fcfcf9;
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.text_discount {
+    color: #fcfcf9;
+    font-family: "Raleway - Extra Bold";
+    font-size: 40px;
+    font-weight: 550;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
 }
 
 footer {
