@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81fa8331-b3d2-4120-a0eb-0be158edf0d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/images/miniBaner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kcJNBwaMXa9GRSd2gRJfB3bk9y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81fa8331-b3d2-4120-a0eb-0be158edf0d8" name="Default Changelist" comment="" />
+      <created>1605993903904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605993903904</updated>
+      <workItem from="1605993904954" duration="6631000" />
+      <workItem from="1606061754827" duration="17000" />
+      <workItem from="1606083131286" duration="29000" />
+      <workItem from="1606118902270" duration="3774000" />
+      <workItem from="1606212891956" duration="12227000" />
+      <workItem from="1606243644778" duration="45297000" />
+      <workItem from="1606479635235" duration="83000" />
+      <workItem from="1606479748724" duration="3870000" />
+      <workItem from="1606503004945" duration="24000" />
+      <workItem from="1606691926639" duration="747000" />
+      <workItem from="1606737985395" duration="3000" />
+      <workItem from="1606738003463" duration="17000" />
+      <workItem from="1607980983933" duration="16098000" />
+      <workItem from="1608058937252" duration="7403000" />
+      <workItem from="1608250822429" duration="13434000" />
+      <workItem from="1608382913420" duration="1475000" />
+      <workItem from="1608824066495" duration="16895000" />
+      <workItem from="1609015189232" duration="1187000" />
+      <workItem from="1609339331026" duration="4726000" />
+      <workItem from="1610095721938" duration="16762000" />
+      <workItem from="1610234007821" duration="6000" />
+      <workItem from="1610373105584" duration="75000" />
+      <workItem from="1611079402977" duration="4727000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="202" key="FileChooserDialogImpl" timestamp="1610373119626">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834/1920.30.1344.810@0.30.1536.834" timestamp="1606738018478" />
+    <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834/1920.56.1344.810@0.30.1536.834" timestamp="1610373119626" />
+    <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1609360059401" />
+    <state x="-6" y="30" width="686" height="840" maximized="true" key="dock-window-1" timestamp="1610373180648">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="762" y="30" width="781" height="840" key="dock-window-1/0.30.1536.834/-1680.65.1344.810@0.30.1536.834" timestamp="1607985344211" />
+    <state x="762" y="30" width="781" height="840" key="dock-window-1/0.30.1536.834/1920.30.1344.810@0.30.1536.834" timestamp="1606738020533" />
+    <state x="-6" y="30" width="686" height="840" maximized="true" key="dock-window-1/0.30.1536.834/1920.56.1344.810@0.30.1536.834" timestamp="1610373180648" />
+    <state x="1914" y="56" width="458" height="816" key="dock-window-1/0.30.1536.834/1920.56.1344.810@1920.56.1344.810" timestamp="1609015713209" />
+    <state x="762" y="30" width="781" height="840" key="dock-window-1/0.30.1536.834@0.30.1536.834" timestamp="1610234012878" />
+    <state x="762" y="30" width="781" height="840" key="dock-window-2" timestamp="1606340639041">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="762" y="30" width="781" height="840" key="dock-window-2/0.30.1536.834@0.30.1536.834" timestamp="1606340639041" />
+    <state width="525" height="416" key="javadoc.popup" timestamp="1608853897199">
+      <screen x="1920" y="56" width="1344" height="810" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.30.1536.834/1920.56.1344.810@0.30.1536.834" timestamp="1608029586773" />
+    <state width="525" height="416" key="javadoc.popup/0.30.1536.834/1920.56.1344.810@1920.56.1344.810" timestamp="1608853897199" />
+  </component>
+</project>

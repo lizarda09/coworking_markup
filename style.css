@@ -142,6 +142,7 @@ header {
     background-color: #f9f6d6;
     position: absolute;
     bottom:34px;
+    left: 33%;
 }
 .line img {
     margin-left: calc(26200%/537);
@@ -465,6 +466,171 @@ header {
     font-size: 40px;
 }
 
+.first_line{
+    width: 1140px;
+    height: 40px;
+    border-top: 2px solid #5a181c;
+}
+.second_line {
+    width: 1140px;
+    height: 40px;
+    border-bottom: 2px solid #5a181c;
+}
+
+.minibaner_content {
+    display: flex;
+}
+.space_count {
+    width: 181px;
+    height: 98px;
+    background-color: #db801d;
+    opacity: 0.83;
+}
+
+.offices_count {
+    width: 182px;
+    height: 98px;
+    background-color: #5f1d1f;
+    opacity: 0.85;
+}
+
+.computers_count {
+    width: 181px;
+    height: 98px;
+    background-color: #acc8d4;
+    opacity: 0.85;
+}
+
+.customers_count {
+    width: 182px;
+    height: 98px;
+    background-color: #a986b4;
+    opacity: 0.85;
+}
+
+.page_9 {
+    position: relative;
+    width: 100%;
+    height: 1000px;
+    background: url("images/sity.png") no-repeat center;
+}
+
+.location {
+    width: 416px;
+    position: absolute;
+    left: 250px;
+    top: 70px;
+}
+.location_name {
+    text-align: center;
+    color: #3c3b35;
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 36px;
+}
+
+.location_desc {
+    color: #5b5a51;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+}
+.park {
+    width: 147px;
+    height: 32px;
+    border: 3px solid #d78e3f;
+    background-color: #ffffff;
+    opacity: 0.55;
+    color: #7b7470;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    left: 50px;
+    position: absolute;
+    top: 230px;
+}
+
+.market {
+    width: 147px;
+    height: 32px;
+    border: 3px solid #d78e3f;
+    background-color: #ffffff;
+    opacity: 0.55;
+    color: #7b7470;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    left: 250px;
+    position: absolute;
+    top: 280px;
+}
+
+.item_arrow {
+    width: 1px;
+    height: 114px;
+    border: 1px solid #d78e3f;
+    position: absolute;
+    left: 50%;
+    top: 27px;
+}
+
+
+.mcDonalds {
+    width: 147px;
+    height: 32px;
+    border: 3px solid #d78e3f;
+    background-color: #ffffff;
+    opacity: 0.55;
+    color: #7b7470;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    left: 480px;
+    position: absolute;
+    top: 250px;
+}
+
+._1969 {
+    width: 147px;
+    height: 32px;
+    border: 3px solid #d78e3f;
+    background-color: #ffffff;
+    opacity: 0.55;
+    color: #a34711;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    right: 30px;
+    position: absolute;
+    top: 230px;
+}
+
+.coffeeLife {
+    width: 147px;
+    height: 32px;
+    border: 3px solid #d78e3f;
+    background-color: #ffffff;
+    opacity: 0.55;
+    color: #7b7470;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    right: 280px;
+    position: absolute;
+    bottom: 280px;
+}
+
+.arrow {
+    position: relative;
+    top: 100px;
+}
 footer {
     width: 100%;
     height: 252px;
