@@ -507,6 +507,19 @@ header {
     background-color: #a986b4;
     opacity: 0.85;
 }
+.page_8 {
+    position: relative;
+    height: 910px;
+    background: url("images/page_8_.png") no-repeat center;
+}
+
+.page8_form {
+    width: 425px;
+    height: 514px;
+    background-color: #96c0d2;
+    opacity: 0.83;
+    position: relative;
+}
 
 .page_9 {
     position: relative;
