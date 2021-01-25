@@ -249,6 +249,10 @@ header {
     /*margin-left: 10px;
     margin-top: 20px;*/
 }
+
+.timer {
+    margin-left: -20px;
+}
 .page_3{
     height: 1365px;
 }
@@ -477,8 +481,18 @@ header {
     border-bottom: 2px solid #5a181c;
 }
 
-.minibaner_content {
+
+.page5_bg {
+    position: relative;
+    height: 270px;
+    background: url("images/5-layers.png") no-repeat center;
+}
+
+.page5_content {
     display: flex;
+    position: relative;
+    justify-content: space-around;
+    top: 50px
 }
 .space_count {
     width: 181px;
@@ -506,6 +520,38 @@ header {
     height: 98px;
     background-color: #a986b4;
     opacity: 0.85;
+}
+
+.count {
+    color: #f6f3d5;
+    font-family: "Raleway - Extra Bold", serif;
+    font-size: 56px;
+    font-weight: 550;
+    text-align: center;
+    line-height: 98px;
+}
+
+.names {
+    width: 185px;
+    height: 66px;
+    border: 5px solid #f9f6d6;
+    margin-top: 15px;
+    color: #f9f6d6;
+    font-family: Raleway;
+    font-size: 29px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.page5_lines {
+    display: flex;
+    justify-content: space-between;
+}
+.line1, .line2{
+    border-bottom: 1px solid #f8f5d6;
+    width: 80px;
+    position: absolute;
+    top: 15%;
 }
 .page_8 {
     position: relative;
