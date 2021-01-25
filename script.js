@@ -19,3 +19,4 @@ function bookButton() {
 $('#page1_form_button').click(bookButton);
 $('.office1-button').click(bookButton);
 $('.page4_button').click(bookButton);
+$('.page8_button').click(bookButton);

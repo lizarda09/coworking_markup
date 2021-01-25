@@ -591,6 +591,92 @@ header {
     background-color: #96c0d2;
     opacity: 0.83;
     position: relative;
+    border-radius: 5%;
+    top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.form8_name {
+    width: 325px;
+    height: 84px;
+    color: #fdf8f8;
+    font-family: Raleway;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.form8_text {
+    width: 313px;
+    height: 66px;
+    color: #fdf8f8;
+    font-family: Raleway;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.page8_form input{
+    width: 334px;
+    height: 51px;
+    background-color: #ededed;
+}
+
+.page8_form [name='phone'] {
+    margin-top: -30px;
+}
+
+.page8_form button {
+    width: 229px;
+    height: 77px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.75);
+    background-color: #c11b35;
+    color: #ededed;
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+.work_with_us {
+    width: 1007px;
+    height: 158px;
+    background-color: #9dc1d1;
+    opacity: 0.94;
+    bottom: 0;
+    position: absolute;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.join_team {
+    width: 268px;
+    height: 27px;
+    color: #fdf8f8;
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.work {
+    width: 371px;
+    height: 36px;
+    color: #fdf8f8;
+    font-family: "Raleway";
+    font-size: 48px;
+    font-weight: 550;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: -60px;
 }
 
 .page_9 {
