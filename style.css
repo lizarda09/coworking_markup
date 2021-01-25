@@ -340,7 +340,9 @@ header {
 .modal_window {
     width: 850px;
     height: 550px;
-    background-color: #612327;
+    background: url("images/2-layers.png");
+    /*background-color: #612327;*/
+    align-items: stretch;
     display: none;
     position: fixed;
     z-index: 2;
@@ -350,12 +352,36 @@ header {
     margin-left: -425px; /* Negative half of width. */
 }
 
+.modal_text {
+    color: #5e191d;
+    font-family: "Raleway - Semi Bold";
+    font-size: 40px;
+    font-weight: 550;
+    text-align: center;
+    height: 300px;
+    line-height: 300px;
+}
+
 .thank {
     color: #fcfcfc;
     font-family: "Raleway - Semi Bold";
     font-size: 48px;
     font-weight: 400;
     text-align: center;
+}
+
+.modal_first_text, .modal_end_text {
+    background-color: #612327;
+    height: 138px;
+}
+
+.modal_end_text {
+    color: #fafafa;
+    font-family: "Raleway - Semi Bold";
+    font-size: 36px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 138px;
 }
 .request {
     color: #fcfcfc;
