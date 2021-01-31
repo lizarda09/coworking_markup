@@ -113,8 +113,11 @@ header {
     width: 227px;
     height: 274px;
     background-color: rgba(255, 224, 146, 0.84);
-    text-align: center;
-    position: relative;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
 }
 .page1_form label {
     width: 199px;
@@ -124,17 +127,20 @@ header {
     font-size: 21px;
     font-weight: 550;
     text-transform: uppercase;
+    text-align: center;
 }
 .page1_form input[type=submit]{
     width: 164px;
     height: 51px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.75);
     background-color: #84bdd1;
+
 }
 .page1_form input[type=text] {
     width: 205px;
     height: 34px;
     background-color: #ffffff;
+    margin-bottom: -30px;
 }
 .line {
     width: 537px;
@@ -578,6 +584,172 @@ header {
     width: 80px;
     position: absolute;
     top: 15%;
+}
+
+.page_6 {
+    position: relative;
+    width: 1130px;
+    margin: auto;
+    height: 900px;
+    background: url("images/page_6.png") no-repeat center;
+}
+
+.first_desc {
+    width: 271px;
+    height: 104px;
+    color: #fcfbf9;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    position: absolute;
+    top: 60px;
+    left: 70px;
+}
+
+.second_desc {
+    width: 256px;
+    height: 109px;
+    color: #ffffff;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    position: absolute;
+    top: 60px;
+    right: 80px;
+}
+
+.third_desc {
+    width: 277px;
+    height: 61px;
+    background-color: rgba(255, 255, 255, 0.66);
+    position: absolute;
+    top: 360px;
+    left: 250px;
+}
+
+.third_desc .name {
+    color: #472806;
+    font-family: Raleway;
+    font-size: 29px;
+    font-weight: 700;
+    margin-left: 20px;
+}
+
+.third_desc .position {
+    color: #472806;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    right: 10px;
+    bottom: 3px;
+}
+
+._4th_desc {
+    width: 277px;
+    height: 61px;
+    background-color: rgba(255, 255, 255, 0.66);
+    position: absolute;
+    top: 360px;
+    right: 260px;
+}
+
+._4th_desc .name {
+    color: #472806;
+    font-family: Raleway;
+    font-size: 29px;
+    font-weight: 700;
+    margin-left: 20px;
+}
+
+._4th_desc .position {
+    color: #472806;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    right: 10px;
+    bottom: 3px;
+}
+
+._5th_desc {
+    width: 296px;
+    color: #ffffff;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    position: absolute;
+    bottom: 320px;
+    left: 240px;
+}
+
+._6th_desc {
+    width: 296px;
+    color: #ffffff;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    position: absolute;
+    bottom: 320px;
+    right: 250px;
+}
+
+._7th_desc {
+    width: 277px;
+    height: 61px;
+    background-color: rgba(255, 255, 255, 0.66);
+    position: absolute;
+    bottom: 60px;
+    left: 70px;
+}
+
+._7th_desc .name {
+    color: #472806;
+    font-family: Raleway;
+    font-size: 29px;
+    font-weight: 700;
+    margin-left: 20px;
+}
+
+._7th_desc .position {
+    color: #472806;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    right: 40px;
+    bottom: 3px;
+}
+
+._8th_desc {
+    width: 277px;
+    height: 61px;
+    background-color: rgba(255, 255, 255, 0.66);
+    position: absolute;
+    bottom: 60px;
+    right: 70px;
+}
+
+._8th_desc .name {
+    color: #472806;
+    font-family: Raleway;
+    font-size: 29px;
+    font-weight: 700;
+    margin-left: 20px;
+}
+
+._8th_desc .position {
+    color: #472806;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    right: 50px;
+    bottom: 3px;
 }
 
 .page_7 {
