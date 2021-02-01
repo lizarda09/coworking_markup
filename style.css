@@ -202,6 +202,14 @@ header {
 .name-of-companies{
     margin-top: 260px;
     margin-right: 30px;
+    width: 780px;
+    position: relative;
+}
+
+
+.symbol2 {
+    position: absolute;
+    right: 0px;
 }
 .name-of-companies .name {
     width: 520px;
@@ -214,7 +222,7 @@ header {
 }
 
 .container_page2 {
-    width: 1400px;
+    width: 1200px;
     margin: auto;
 }
 
@@ -533,6 +541,18 @@ header {
     opacity: 0.83;
 }
 
+.sq {
+    width: 52px;
+    height: 23px;
+    color: #f6f3d5;
+    font-family: "Raleway";
+    font-size: 24px;
+    font-weight: 550;
+    position: absolute;
+    right: 10px;
+    top: 33px;
+}
+
 .offices_count {
     width: 182px;
     height: 98px;
@@ -556,11 +576,12 @@ header {
 
 .count {
     color: #f6f3d5;
-    font-family: "Raleway - Extra Bold", serif;
+    font-family: "Raleway";
     font-size: 56px;
     font-weight: 550;
     text-align: center;
     line-height: 98px;
+    position: relative;
 }
 
 .names {
@@ -573,6 +594,7 @@ header {
     font-size: 29px;
     font-weight: 700;
     text-align: center;
+    line-height: 50px;
 }
 
 .page5_lines {
@@ -768,14 +790,30 @@ header {
     justify-content: space-between;
 }
 
+.page7_s1 {
+    width: 30px;
+    position: absolute;
+    left: 15px;
+    top: -20px;
+}
+
+.page7_s2 {
+    width: 30px;
+    position: absolute;
+    right: 15px;
+    bottom: 0px;
+}
+
 .content_header {
     color: #6d2504;
     font-family: Raleway;
     font-size: 48px;
     font-weight: 700;
     text-align: center;
-    width: 500px;
+    height: 75px;
+    width: 550px;
     margin-top: 200px;
+    position: relative;
 }
 .content_items {
     margin: 100px;
