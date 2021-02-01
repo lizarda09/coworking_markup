@@ -369,7 +369,7 @@ header {
 
 .modal_text {
     color: #5e191d;
-    font-family: "Raleway - Semi Bold";
+    font-family: "Raleway";
     font-size: 40px;
     font-weight: 550;
     text-align: center;
@@ -379,7 +379,7 @@ header {
 
 .thank {
     color: #fcfcfc;
-    font-family: "Raleway - Semi Bold";
+    font-family: "Raleway";
     font-size: 48px;
     font-weight: 400;
     text-align: center;
@@ -392,7 +392,7 @@ header {
 
 .modal_end_text {
     color: #fafafa;
-    font-family: "Raleway - Semi Bold";
+    font-family: "Raleway";
     font-size: 36px;
     font-weight: 400;
     text-align: center;
@@ -400,7 +400,7 @@ header {
 }
 .request {
     color: #fcfcfc;
-    font-family: "Raleway - Semi Bold";
+    font-family: "Raleway";
     font-size: 40px;
     font-weight: 400;
     text-align: center;
