@@ -108,6 +108,7 @@ header {
     font-weight: 550;
     text-align: center;
     margin-bottom: 25px;
+    font-family: "Raleway", serif;
 }
 .page1_form {
     width: 227px;
@@ -290,9 +291,9 @@ header {
 .office-content-name {
     margin: auto auto 30px;
     color: #fffffc;
-    font-family: "Raleway - Black", serif;
+    font-family: "Raleway", serif;
     font-size: 38px;
-    font-weight: 400;
+    font-weight: 550;
     text-transform: uppercase;
     border: 3px solid #f8f5d6;
     width: 366px;
@@ -331,7 +332,7 @@ header {
 }
 .office1-button-name {
     color: #2e2e2b;
-    font-family: "Raleway - Black", serif;
+    font-family: "Raleway", serif;
     font-size: 38px;
     font-weight: 550;
     text-transform: uppercase;
@@ -475,7 +476,7 @@ header {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.76);
     background-color: #00a9da;
     color: #fefefb;
-    font-family: "Raleway - Extra Bold";
+    font-family: "Raleway";
     font-size: 36px;
     font-weight: 550;
     text-transform: uppercase;
@@ -487,7 +488,7 @@ header {
     color: #fcfcf9;
     font-family: Raleway;
     font-size: 36px;
-    font-weight: 700;
+    font-weight: 550;
     text-align: center;
     text-transform: uppercase;
 }
@@ -502,7 +503,7 @@ header {
 
 .text_discount {
     color: #fcfcf9;
-    font-family: "Raleway - Extra Bold";
+    font-family: "Raleway";
     font-size: 40px;
     font-weight: 550;
     text-align: center;
@@ -1080,6 +1081,7 @@ footer {
 }
 .footer-cow-space-text {
     margin-bottom: 45px;
+    font-family: "Raleway";
 }
 .footer-cow-space-text .twitter {
     margin-right: 26px;
